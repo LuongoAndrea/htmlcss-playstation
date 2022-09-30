@@ -97,3 +97,17 @@ section#nuove-uscite .container div:last-of-type div div{
 #ps-plus img{
     width: 100%;
 }
+#playstation-store{
+    margin: 2rem 0;
+}
+#playstation-store img{
+    margin: 2rem 0;
+    width: 100%;
+}
+#ps-now{
+    background-color: gray;
+    padding: 4rem 0;
+}
+#ps-now img{
+    width: 100%;
+}
