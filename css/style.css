@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+h2{
+    font-size: 2rem!important;
+}
+header{
+    
+}
+.logo-sony{
+   width: 100%;
+   justify-content: end;
+   
+   background-color: black;
+}
+.logo-sony img{
+    width: 6rem;
+    padding: 0.5rem;
+}
+.logo-play img{
+    width: 2rem;
+    height: 2rem;
+}
+.hero {
+    display: flex;
+    justify-content: center;
+}
+#hero div.position-absolute{
+    color: white;
+    bottom: 3rem;
+}
+#hero div.position-absolute div{
+    margin-bottom: 3rem;
+    padding-left: 2rem;
+}
+#hero div.position-absolute img{
+    width: 16rem;
+}
+button{
+    border-radius: 2rem!important;
+}
+#hero .border-hero{
+    padding: 0.1rem;
+    
+    border-radius: 1rem;
+    transition: transform 0.5s;
+}
+#hero .border-hero:hover{
+    transform: translate(0%, -10%);
+    border: 3px solid rgb(101, 178, 209);
+}
+
+#hero .card-hero{
+    border-radius: 0.8rem;
+    overflow: hidden;
+}
+#hero .card-hero img{
+    width: 100%;
+}
+section#ps5{
+    margin: 5rem 0 3rem 0;
+}
+#ps5 .row{
+    margin-bottom: 3rem;
+}
+#ps5 div:first-of-type h1{
+    margin: 1.5rem 0;
+}
+.carosel-img img{
+    width: 100%;
+}
+/* #takes-two div:first-of-type img{
+    right: 150%;
+} */
+section#nuove-uscite{
+    background-color: black;
+    color: white;
+    padding: 3rem 0;
+}
+section#nuove-uscite .container div:last-of-type div div{
+    border-radius: 1rem;
+    overflow: hidden;
+}
