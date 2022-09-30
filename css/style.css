@@ -92,7 +92,6 @@ section#nuove-uscite .container div:last-of-type div div{
 }
 #ps-plus{
     background-color: gray;
-    padding: 4rem 0;
 }
 #ps-plus img{
     width: 100%;
@@ -110,4 +109,18 @@ section#nuove-uscite .container div:last-of-type div div{
 }
 #ps-now img{
     width: 100%;
+}
+#social{
+    padding: 4rem 0;
+}
+#social img{
+    width: 100%;
+}
+.ps-logo-footer{
+    filter: invert(1);
+}
+footer section{
+    padding: 4rem 0;
+    background-color: blue;
+    color: white;
 }
